@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on Web and ML projects.
 - 🌱 I’m currently brushing up my DSA skills
+- 🔭 I’m exploring Blockchain development.
 - 👯 I’m looking to collaborate on web, ML project ideas
 - 💬 Ask me about anything!!
 - ⚡ Fun fact: coding is life, until it's buggy 😁
