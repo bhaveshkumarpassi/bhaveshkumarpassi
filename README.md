@@ -19,5 +19,5 @@
 <a href="https://linkedin.com/in/bhavesh-kumar-9ab7061b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavesh-kumar-9ab7061b1" height="30" width="40" /></a>
 <a href="https://github.com/bhaveshkumarpassi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="bhaveshkumarpassi" height="30" width="40" /></a>
  <a href="https://kaggle.com/bhaveshkumar01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="bhaveshkumar01" height="30" width="40" /></a>
-<a href="https://instagram.com/_bhavesh__kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_bhavesh__kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i.m.bhavesh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i.m.bhavesh" height="30" width="40" /></a>
 </p>
